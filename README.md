@@ -70,3 +70,7 @@ If you encounter any bugs, please [submit an issue](https://github.com/pnwparksf
 [![Issues](https://img.shields.io/github/issues/pnwparksfan/utility-truck-interaction)](https://github.com/pnwparksfan/utility-truck-interaction/issues)  
 [![Issues](https://img.shields.io/github/issues-closed/pnwparksfan/utility-truck-interaction)](https://github.com/pnwparksfan/utility-truck-interaction/issues)
 
+
+### Credits:
+ - Script by PNWParksFan
+ - Thanks to Dexyfex for adding YCD (animation clipset) editing to CodeWalker
